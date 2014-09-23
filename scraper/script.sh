@@ -1,5 +1,5 @@
-#!/usr/bin/env sh
-node ./script.js
+#!/bin/sh
+/usr/local/bin/node /var/www/vhosts/themechanism.com/node-projects/The-Social-Mechanism/scraper/script.js
 
 LOGFILE=error.log
 
